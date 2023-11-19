@@ -1,0 +1,397 @@
+@media screen and (max-width:1199px) and (min-width:992px){
+    .container{
+        width: 970px;
+    }
+    /* header section */
+    .nav-logo{
+        padding: 18px 0;
+    }
+    .nav-link li{
+        padding: 10px 10px;
+    }
+    .header-content{
+        padding-top: 120px;
+    }
+    /* header section */
+    /* hello section */
+    .hello-info{
+        padding-left: 60px;
+    }
+    .hello-info ul{
+        width: 50%;
+    }
+    /* hello section */
+    /* services section */
+    .sections-content{
+    padding: 80px 0px;
+    }
+    .services-col{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    /* services section */
+    /* feedback section */
+    .feedback-cards{
+        width: 65%;
+    }
+    .rotate-box{
+    left: -292px;
+    top: -192px;
+    }
+    .card-img{
+        width: 20%;
+    }
+    .card-info{
+    width: 76%;
+    }
+    /* feedback section */
+}
+
+@media screen and (max-width:991px) and (min-width:768px){
+    .container{
+        width: 750px;
+    }
+    /* header section */
+    .nav-logo{
+        padding: 18px 0;
+    }
+    .nav-link li{
+        padding: 8px 5px;
+    }
+    .header-content{
+        padding-top: 120px;
+    }
+    /* header section */
+    /* hello section */
+    .hello-img{
+        width: 50%;
+        margin-left: 0;
+    }
+    .box-w-border{
+    box-shadow: none;
+    }
+    .profile-photo{
+        top: 0px;
+        left: 0px;
+    }
+
+    .hello-info{
+        width: 50%;
+        padding-left: 20px;
+    }
+    .hello-info h2{
+        margin-bottom: 10px;
+    }
+    .hello-info p{
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    .hello-info ul{
+        width: 50%;
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+    .hello-info ul li{
+    margin-bottom: 10px;
+    }
+    /* hello section */
+    /* services section */
+    .sections-content{
+    padding: 50px 0px;
+    }
+    .services-col{
+        width: 50%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /* services section */
+    /* portfolio section */
+        .item-content{
+    width: 50%;
+    padding: 15px;
+}
+    /* portfolio section */
+    /* counter section */
+    .counter-content{
+    padding: 70px 0px;
+    }
+    .counter-icon{
+    margin-bottom: 5px;
+}
+
+.counter-info h3{
+    margin: 0px 0px 5px;
+    }
+.counter-info p{
+    margin: 5px 0px;
+    }
+    /* counter section */
+    /* feedback section */
+    .feedback-cards{
+        width: 95%;
+    }
+    .card-img{
+        width: 16%;
+    }
+    .card-info{
+    width: 80%;
+    }
+    /* feedback section */
+    /* contact section */
+    .contact-form{
+    width: 90%;
+    }
+    .row{
+        padding: 0 0 25px;
+    }
+    /* contact section */
+}
+
+@media screen and (max-width:767px){
+    .container{
+        width: 450px;
+    }
+    /* header section */
+    .nav-logo{
+        padding: 18px 0;
+    }
+    .bar-icon{
+        display:inline;
+    }
+    .bar-icon i{
+        margin-top: 20px;
+        font-size: 22px;
+    }
+    .nav-link ul{
+        display: none;
+    }
+    .header-content{
+        padding-top: 120px;
+    }
+    h1,h2,h3,h4{
+        font-weight: 600;
+    }
+    .header-content h3{
+        font-size: 22px;
+    }
+    .header-content h1{
+        font-size: 38px;
+    }
+    .header-content h4{
+        font-size: 18px;
+    }
+    .group-word{
+        width: 73px;
+        height: 22px;
+    }
+    @keyframes openclose{
+    0%{
+        width: 73px;
+    }
+    10%{
+        width: 73px;
+    }
+    20%{
+        width: 2px;
+    }
+    23%{
+        width: 2px;
+    }
+    30%{
+        width: 83px;
+    }
+    40%{
+        width: 83px;
+    }
+    60%{
+        width: 2px;
+    }
+    63%{
+        width: 2px;
+    }
+    70%{
+        width: 73px;
+    }
+    80%{
+        width: 73px;
+    }
+    90%{
+        width: 2px;
+    }
+    93%{
+        width: 2px;
+    }
+    100%{
+        width: 73px;
+    }
+}
+@keyframes word{
+        0%{
+        top: -2px;
+    }
+    10%{
+        top: -2px;
+    }
+    15%{
+        top: -2px;
+    }
+    18%{
+        top: -2px;
+    }
+    22%{
+        top: -25px;
+    }
+    30%{
+        top: -25px;
+    }
+    40%{
+        top: -25px;
+    }
+    55%{
+        top: -25px;
+    }
+    58%{
+        top: -25px;
+    }
+    62%{
+        top: -48px;
+    }
+    70%{
+        top: -48px;
+    }
+    80%{
+        top: -48px;
+    }  
+    90%{
+        top: -48px;
+    }
+    93%{
+        top: -2px;
+    }
+    95%{
+        top: -2px;
+    }
+    100%{
+        top: -2px;
+    }
+}
+    /* header section */
+
+    /* hello section */
+    .hello-content{
+        padding: 60px 0;
+    }
+    .hello-img{
+        width: 100%;
+        margin-left: 0;
+    }
+    .box-w-border{
+    box-shadow: none;
+    }
+    .profile-photo{
+        top: 0px;
+        left: 0px;
+    }
+
+    .hello-info{
+        width: 100%;
+        padding-left: 20px;
+    }
+    .hello-info h2{
+        margin-bottom: 10px;
+    }
+    .hello-info p{
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+    }
+    .hello-info ul{
+        width: 100%;
+        margin: 0px;
+    }
+    .btu-cv{
+    margin-top: 10px;
+    }
+    /* hello section */
+    /* services section */
+    .sections-content{
+    padding: 60px 0px;
+    }
+    .sections-header h2{
+        font-size: 32px;
+    }
+    .services-col{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /* services section */
+    /* portfolio section */
+        .item-content{
+    width: 100%;
+    padding: 15px;
+    }
+    /* portfolio section */
+    /* counter section */
+    .counter-content{
+    padding: 70px 0px;
+    }
+    .counter-item{
+        width: 100%;
+    }
+    .counter-icon{
+        margin-bottom: 5px;
+    }
+    .counter-info h3{
+    margin: 0px 0px 5px;
+    }
+.counter-info p{
+    margin: 5px 0px 15px;
+    }
+    /* counter section */
+    /* feedback section */
+    .feedback-cards{
+        width: 95%;
+    }
+    .card{
+        padding: 20px;
+    }
+    .card-img{
+        float:none;
+        width: 30%;
+        margin: auto;
+    }
+    .rotate-box{
+        left: -305px;
+        top: -255px;
+    }
+    .card-info{
+    width: 100%;
+    margin-top: 10px;
+    }
+    /* feedback section */
+    /* blog section */
+    .col-parent{
+    width: 100%;
+    padding-bottom: 30px;
+    }
+    /* blog section */
+    /* contact section */
+    .contact-form{
+    width: 95%;
+    }
+    .row{
+        padding: 0 0 25px;
+    }
+    .input-col{
+        width: 100%;
+    }
+    .col-1{
+        padding: 0;
+        margin-bottom: 25px;
+    }
+    .col-2{
+        padding: 0;
+    }
+    /* contact section */
+}
